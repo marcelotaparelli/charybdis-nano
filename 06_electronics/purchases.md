@@ -37,9 +37,20 @@ US$ 22.13 não é o valor pago: houve desconto antes do fechamento do pedido. A 
 - **Status:** comprado.
 - **Anúncio:** [4 rolamentos MR63ZZ](https://www.mercadolivre.com.br/4-rolamentos-mr63zz-3mm--6mm--25mm-micro-rolamento/up/MLBU597514219).
 
+## Compra 4 — esfera do trackball
+
+- **Data:** 2026-10-01
+- **Fornecedor:** Mercado Livre
+- **Item:** esfera de trackball de 34 mm, compatível com Logitech M570/M575.
+- **Produto:** R$ 54,03.
+- **Frete:** R$ 23,99.
+- **Impostos:** R$ 15,98.
+- **Total pago:** R$ 94,00.
+- **Status:** comprado.
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 249,96.
+- **BRL:** R$ 343,96.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.
