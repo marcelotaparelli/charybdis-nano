@@ -23,7 +23,7 @@ download 'https://raw.githubusercontent.com/Bastardkb/Charybdis/main/files/senso
 download 'https://raw.githubusercontent.com/Bastardkb/Charybdis/main/files/3x5%20nano/tent/alien/tent15deg_v2_27.stl' \
   "$ROOT/04_tenting/RIGHT_tent15deg_v2_27.stl"
 
-# LEFT source — Skeletyl V4 (mirror these in the slicer)
+# LEFT source — Skeletyl V4 (unmirrored upstream reference)
 download 'https://raw.githubusercontent.com/Bastardkb/Skeletyl/main/V4/case_v4_103.stl' \
   "$ROOT/01_cases/LEFT_SOURCE_case_v4_103_MIRROR_IN_SLICER.stl"
 download 'https://raw.githubusercontent.com/Bastardkb/Skeletyl/main/V4/plates/plate_v4_103.stl' \
@@ -32,5 +32,5 @@ cp "$ROOT/04_tenting/RIGHT_tent15deg_v2_27.stl" \
   "$ROOT/04_tenting/LEFT_SOURCE_tent15deg_v2_27_MIRROR_IN_SLICER.stl"
 
 echo
-echo 'OK. Todos os STLs oficiais foram baixados.'
-echo 'Na mão esquerda, espelhe os 3 arquivos marcados MIRROR_IN_SLICER no eixo X.'
+echo 'OK. Fontes upstream atualizadas. Os arquivos LEFT_SOURCE_* são referências não espelhadas.'
+echo 'Se as fontes mudaram, regenere os LEFT com node scripts/mirror_left_stls.js --write.'

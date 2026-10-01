@@ -1,13 +1,13 @@
 CHARYBDIS NANO 3x5 — PACOTE DE IMPRESSÃO
 
-Estrutura:
+Estrutura principal:
 01_cases/
   RIGHT_charybdisnano_v2_v187.stl
-  LEFT_SOURCE_case_v4_103_MIRROR_IN_SLICER.stl
+  LEFT_case_v4_103.stl
 
 02_bottom_plates/
   RIGHT_alien_v2_185.stl
-  LEFT_SOURCE_plate_v4_103_MIRROR_IN_SLICER.stl
+  LEFT_plate_v4_103.stl
 
 03_trackball/
   adapter_v2_top_v75.stl
@@ -16,15 +16,18 @@ Estrutura:
 
 04_tenting/
   RIGHT_tent15deg_v2_27.stl
-  LEFT_SOURCE_tent15deg_v2_27_MIRROR_IN_SLICER.stl
+  LEFT_tent15deg_v2_27.stl
 
 05_keycaps/
-  pacote DES já gerado, incluindo full_set_35.stl e peças individuais.
+  plates/full_set_35.stl
+  plates/full_set_35.3mf
+  individual/ (peças individuais)
+  masters/MX_stem_fit_coupon.stl
 
-IMPORTANTE:
-Os três arquivos LEFT_SOURCE devem ser espelhados no eixo X no slicer.
+Os arquivos LEFT já estão espelhados no eixo X e prontos para o slicer.
+Os arquivos LEFT_SOURCE_* permanecem apenas como fontes upstream não espelhadas.
 
-Se os STLs oficiais ainda não estiverem presentes, execute:
-  ./download_official_stls.sh
+O script ./download_official_stls.sh serve para reproduzir ou atualizar as fontes
+upstream. Não é necessário executá-lo após clonar este repositório.
 
-Depois o diretório fica completo para levar ao slicer/impressão.
+Atribuição e licenças: THIRD_PARTY_LICENSES.md.
