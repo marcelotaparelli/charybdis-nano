@@ -97,9 +97,18 @@ O valor de R$ 91,75 corresponde ao conjunto e não está dividido entre sensor e
 - **Total efetivamente pago:** R$ 20,00.
 - **Status:** comprado/pago.
 
+## Compra 9 — fio para handwire
+
+- **Data:** 2026-10-01
+- **Fornecedor:** Mercado Livre
+- **Item:** fio para handwire, bitola 28 AWG, seção aproximada de 0,10 mm².
+- **Quantidade:** 1 rolo.
+- **Total efetivamente pago:** R$ 50,96.
+- **Status:** comprado/pago.
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 601,46.
+- **BRL:** R$ 652,42.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.

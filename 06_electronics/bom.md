@@ -10,7 +10,7 @@ Os status e preços abaixo registram apenas informações confirmadas. “A comp
 | Sensor | PMW3360DM-T2QU | 1 | Comprado | R$ 91,75 total do conjunto | AliExpress |
 | Lente | LM19-LSI | 1 | Comprada | Incluída no conjunto (total na linha do sensor) | AliExpress |
 | PCB do sensor | BastardKB PMW3360, rev 2.0c | 5 fabricadas; 2 com PCBA | Comprado; pedido pago | US$ 23.54 (pedido inteiro; não é preço unitário) | [Release oficial 2.0c](https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb/releases/tag/2.0c); JLCPCB |
-| Fio para handwire | Fio fino, aproximadamente 28 AWG | A definir | A comprar | — | A definir |
+| Fio para handwire | 28 AWG / aproximadamente 0,10 mm² | 1 rolo | Comprado | R$ 50,96 | Mercado Livre |
 | Cabo | USB-C com dados | A definir | A comprar | — | A definir |
 | Trackball | Esfera de 34 mm, compatível com Logitech M570/M575 | 1 | Comprado | R$ 94,00 total | Mercado Livre |
 | Rolamentos | MR63ZZ, 3 × 6 × 2,5 mm | 4 comprados; 3 usados + 1 reserva | Comprado | R$ 54,96 total (produto R$ 47,90) | [Mercado Livre](https://www.mercadolivre.com.br/4-rolamentos-mr63zz-3mm--6mm--25mm-micro-rolamento/up/MLBU597514219) |
