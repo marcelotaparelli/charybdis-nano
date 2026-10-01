@@ -25,9 +25,21 @@ Marcelo decidiu, como exceção consciente desta build, imprimir o conjunto comp
 
 US$ 22.13 não é o valor pago: houve desconto antes do fechamento do pedido. A composição e as exclusões da montagem estão em [trackball-pcb.md](trackball-pcb.md).
 
+## Compra 3 — rolamentos MR63ZZ
+
+- **Data:** 2026-10-01
+- **Fornecedor:** Mercado Livre
+- **Item:** 4× MR63ZZ, 3 × 6 × 2,5 mm.
+- **Uso:** 3 necessários + 1 reserva.
+- **Produto:** R$ 47,90.
+- **Frete:** grátis.
+- **Total informado/pago:** R$ 54,96.
+- **Status:** comprado.
+- **Anúncio:** [4 rolamentos MR63ZZ](https://www.mercadolivre.com.br/4-rolamentos-mr63zz-3mm--6mm--25mm-micro-rolamento/up/MLBU597514219).
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 195,00.
+- **BRL:** R$ 249,96.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.

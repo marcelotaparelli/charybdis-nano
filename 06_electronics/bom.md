@@ -13,7 +13,7 @@ Os status e preços abaixo registram apenas informações confirmadas. “A comp
 | Fio para handwire | Fio fino, aproximadamente 28 AWG | A definir | A comprar | — | A definir |
 | Cabo | USB-C com dados | A definir | A comprar | — | A definir |
 | Trackball | Diâmetro 34 mm | 1 | A comprar | — | A definir |
-| Rolamentos | MR63ZZ, 3 × 6 × 2,5 mm | 3 | A comprar | — | A definir |
+| Rolamentos | MR63ZZ, 3 × 6 × 2,5 mm | 4 comprados; 3 usados + 1 reserva | Comprado | R$ 54,96 total (produto R$ 47,90) | [Mercado Livre](https://www.mercadolivre.com.br/4-rolamentos-mr63zz-3mm--6mm--25mm-micro-rolamento/up/MLBU597514219) |
 | Parafusos | M4 × 8 | 12 | A comprar | — | A definir |
 | Insertos | M4 × D6,0 × L5,0 | 12 | A comprar | — | A definir |
 | Parafusos | M3 × 8 | 8 | A comprar | — | A definir |
