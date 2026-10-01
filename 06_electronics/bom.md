@@ -5,7 +5,7 @@ Os status e preços abaixo registram apenas informações confirmadas. “A comp
 | Peça | Modelo / especificação | Qtd. | Status | Preço pago | Fornecedor / link |
 |---|---|---:|---|---:|---|
 | Controlador | RP2040-Zero USB-C | 2× | Comprado | R$ 55,76 total pago | [WJ Componentes](https://www.wjcomponentes.com.br/placa-desenvolvimento-rp2040-zero-usb-c) |
-| Switches | MX | aproximadamente 40 | A comprar | — | A definir |
+| Switches | Outemu Red, MX, linear | 40 comprados; 35 usados + 5 reservas | Comprado | R$ 89,99 | Mercado Livre |
 | Diodos | 1N4148, through-hole, DO-35 | aproximadamente 100 (pacote) | A comprar | — | A definir |
 | Sensor | PMW3360DM-T2QU | 1 | Comprado | R$ 91,75 total do conjunto | AliExpress |
 | Lente | LM19-LSI | 1 | Comprada | Incluída no conjunto (total na linha do sensor) | AliExpress |

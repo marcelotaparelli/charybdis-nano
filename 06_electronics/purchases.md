@@ -76,9 +76,20 @@ O valor de R$ 91,75 corresponde ao conjunto e não está dividido entre sensor e
 - **Status:** comprado/pago.
 - **Produto:** [Placa de desenvolvimento RP2040 Zero USB-C](https://www.wjcomponentes.com.br/placa-desenvolvimento-rp2040-zero-usb-c).
 
+## Compra 7 — switches Outemu Red
+
+- **Data:** 2026-10-01
+- **Fornecedor:** Mercado Livre
+- **Item:** switches Outemu Red, padrão MX, tipo linear.
+- **Quantidade:** 40.
+- **Uso previsto:** 35 usados + 5 de reserva.
+- **Valor pago:** R$ 89,99.
+- **Frete:** grátis.
+- **Status:** comprado/pago.
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 491,47.
+- **BRL:** R$ 581,46.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.
