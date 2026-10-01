@@ -48,9 +48,23 @@ US$ 22.13 não é o valor pago: houve desconto antes do fechamento do pedido. A 
 - **Total pago:** R$ 94,00.
 - **Status:** comprado.
 
+## Compra 5 — sensor PMW3360DM-T2QU + lente LM19-LSI
+
+- **Data:** 2026-10-01
+- **Fornecedor:** AliExpress
+- **Itens:** PMW3360DM-T2QU e lente LM19-LSI, vendidos como conjunto.
+- **Subtotal:** R$ 48,99.
+- **Frete:** R$ 27,12.
+- **Imposto de importação:** R$ 0,00.
+- **ICMS:** R$ 15,64.
+- **Total pago:** R$ 91,75.
+- **Status:** pago/comprado.
+
+O valor de R$ 91,75 corresponde ao conjunto e não está dividido entre sensor e lente.
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 343,96.
+- **BRL:** R$ 435,71.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.
