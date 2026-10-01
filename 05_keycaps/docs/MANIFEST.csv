@@ -1,5 +1,0 @@
-profile,quantity,master_file,positions
-R4_top,10,masters/DES_top.stl,5 left + 5 right
-R3_home,10,masters/DES_home.stl,5 left + 5 right
-R2_bottom,10,masters/DES_bottom.stl,5 left + 5 right
-thumb,5,masters/DES_thumb.stl,3 left + 2 right

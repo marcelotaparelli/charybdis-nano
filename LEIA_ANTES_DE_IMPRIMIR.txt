@@ -1,0 +1,35 @@
+CHARYBDIS NANO 3x5 — INSTRUÇÕES PARA IMPRESSÃO
+
+Todos os modelos necessários estão nas pastas:
+
+01_cases
+02_bottom_plates
+03_trackball
+04_tenting
+05_keycaps
+
+IMPORTANTE — LADO ESQUERDO
+
+Os arquivos LEFT já estão corretamente espelhados.
+
+NÃO aplicar Mirror / Espelhar novamente no slicer.
+
+IMPORTANTE — KEYCAPS
+
+Antes de imprimir os 35 keycaps:
+
+1. Imprimir SOMENTE:
+
+05_keycaps/MX_stem_fit_coupon.stl
+
+2. Testar o encaixe em um switch MX.
+
+3. Aguardar minha aprovação.
+
+4. Após aprovação, imprimir:
+
+05_keycaps/full_set_35.3mf
+
+As demais peças podem ser preparadas normalmente para impressão.
+
+Não utilizar versões de arquivos que não estejam presentes neste repositório.
