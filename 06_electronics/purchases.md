@@ -87,9 +87,19 @@ O valor de R$ 91,75 corresponde ao conjunto e não está dividido entre sensor e
 - **Frete:** grátis.
 - **Status:** comprado/pago.
 
+## Compra 8 — diodos 1N4148
+
+- **Data:** 2026-10-01
+- **Fornecedor:** Mercado Livre
+- **Item:** diodos 1N4148, encapsulamento DO-35, axial / through-hole.
+- **Quantidade:** 100.
+- **Quantidade necessária para a build:** aproximadamente 35; restante para reserva.
+- **Total efetivamente pago:** R$ 20,00.
+- **Status:** comprado/pago.
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 581,46.
+- **BRL:** R$ 601,46.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.

@@ -6,7 +6,7 @@ Os status e preços abaixo registram apenas informações confirmadas. “A comp
 |---|---|---:|---|---:|---|
 | Controlador | RP2040-Zero USB-C | 2× | Comprado | R$ 55,76 total pago | [WJ Componentes](https://www.wjcomponentes.com.br/placa-desenvolvimento-rp2040-zero-usb-c) |
 | Switches | Outemu Red, MX, linear | 40 comprados; 35 usados + 5 reservas | Comprado | R$ 89,99 | Mercado Livre |
-| Diodos | 1N4148, through-hole, DO-35 | aproximadamente 100 (pacote) | A comprar | — | A definir |
+| Diodos | 1N4148, axial / through-hole, DO-35 | 100 comprados; ~35 usados + restante reserva | Comprado | R$ 20,00 | Mercado Livre |
 | Sensor | PMW3360DM-T2QU | 1 | Comprado | R$ 91,75 total do conjunto | AliExpress |
 | Lente | LM19-LSI | 1 | Comprada | Incluída no conjunto (total na linha do sensor) | AliExpress |
 | PCB do sensor | BastardKB PMW3360, rev 2.0c | 5 fabricadas; 2 com PCBA | Comprado; pedido pago | US$ 23.54 (pedido inteiro; não é preço unitário) | [Release oficial 2.0c](https://github.com/Bastardkb/charybdis-pmw-3360-sensor-pcb/releases/tag/2.0c); JLCPCB |
