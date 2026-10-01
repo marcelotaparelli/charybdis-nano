@@ -62,9 +62,23 @@ US$ 22.13 não é o valor pago: houve desconto antes do fechamento do pedido. A 
 
 O valor de R$ 91,75 corresponde ao conjunto e não está dividido entre sensor e lente.
 
+## Compra 6 — controladoras RP2040-Zero
+
+- **Data:** 2026-10-01
+- **Fornecedor:** WJ Componentes Eletrônicos
+- **Item:** RP2040-Zero USB-C.
+- **Quantidade:** 2.
+- **Preço nominal por unidade:** R$ 23,51.
+- **Subtotal dos produtos:** R$ 47,02.
+- **Frete:** Sedex Correios, R$ 10,15.
+- **Total normal do pedido:** R$ 57,17.
+- **Total efetivamente pago no Pix com desconto:** R$ 55,76.
+- **Status:** comprado/pago.
+- **Produto:** [Placa de desenvolvimento RP2040 Zero USB-C](https://www.wjcomponentes.com.br/placa-desenvolvimento-rp2040-zero-usb-c).
+
 ## Total acumulado confirmado
 
-- **BRL:** R$ 435,71.
+- **BRL:** R$ 491,47.
 - **USD:** US$ 23.54.
 
 Os montantes permanecem em moedas separadas. Não converter USD para BRL sem o valor efetivo da conversão aplicada na cobrança.

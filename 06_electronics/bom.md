@@ -4,7 +4,7 @@ Os status e preços abaixo registram apenas informações confirmadas. “A comp
 
 | Peça | Modelo / especificação | Qtd. | Status | Preço pago | Fornecedor / link |
 |---|---|---:|---|---:|---|
-| Controlador | RP2040-Zero, USB-C | 2 | A comprar | — | A definir |
+| Controlador | RP2040-Zero USB-C | 2× | Comprado | R$ 55,76 total pago | [WJ Componentes](https://www.wjcomponentes.com.br/placa-desenvolvimento-rp2040-zero-usb-c) |
 | Switches | MX | aproximadamente 40 | A comprar | — | A definir |
 | Diodos | 1N4148, through-hole, DO-35 | aproximadamente 100 (pacote) | A comprar | — | A definir |
 | Sensor | PMW3360DM-T2QU | 1 | Comprado | R$ 91,75 total do conjunto | AliExpress |
