@@ -8,15 +8,21 @@ Todos os modelos necessários estão nas pastas:
 04_tenting
 05_keycaps
 
+O repositório agora também documenta a eletrônica, compras e montagem em
+06_electronics/.
+
 IMPORTANTE — LADO ESQUERDO
 
 Os arquivos LEFT já estão corretamente espelhados.
 
 NÃO aplicar Mirror / Espelhar novamente no slicer.
 
+Manter a escala em 100%. Não aplicar compensação dimensional automática sem
+validar o resultado primeiro. Não alterar a geometria arbitrariamente.
+
 IMPORTANTE — KEYCAPS
 
-Antes de imprimir os 35 keycaps:
+Procedimento recomendado para os keycaps:
 
 1. Imprimir SOMENTE:
 
@@ -24,11 +30,19 @@ Antes de imprimir os 35 keycaps:
 
 2. Testar o encaixe em um switch MX.
 
-3. Aguardar minha aprovação.
+3. Se o encaixe estiver adequado, seguir para o conjunto completo.
 
-4. Após aprovação, imprimir:
+4. Imprimir:
 
 05_keycaps/full_set_35.3mf
+
+O conjunto possui quatro perfis ergonômicos diferentes: 10 top, 10 home,
+10 bottom e 5 thumb. Não simplificar todos para um perfil único.
+
+Exceção desta build: Marcelo autorizou a impressão do conjunto completo antes
+da validação do coupon, pois o custo total desta impressão é baixo. Se o
+encaixe exigir, os keycaps serão ajustados/recalibrados e reimpressos depois.
+Essa decisão é específica desta build e não altera o procedimento recomendado.
 
 As demais peças podem ser preparadas normalmente para impressão.
 
